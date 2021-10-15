@@ -1,0 +1,38 @@
+## Benjamin Isaaz
+780 667 3098
+emailfictif@outlook.fr
+Fredericton, NB
+
+I am a multilingual software engineering student determined to use my knowledge in finance and technology in a way that benefits society and contributes to current initiatives which can improve our collective future.
+
+#### Experience
+FINANCIAL ANALYST, BANK OF CANADA; OTTAWA, CANADA
+MAY 2021 - ONGOING
+- Leveraged VBA code to create an Excel workbook which carried out analyses of delivery costs to support renegotiations of the NAFTA agreement
+- Built an Excel workbook which streamlined progress tracking of capital projects by consolidating and resolving scattered data into clear action items
+
+STUDENT INTERNAL AUDITOR, BANK OF CANADA; OTTAWA, CANADA
+APRIL - DECEMBER 2019
+- Supported audits focusing on aircraft financing and international project lending
+
+FINANCIAL CONTROL INTERN, TIER MOBILITY AG; BERLIN, GERMANY
+MAY - SEPTEMBER 2018
+- Redesigned the monthly cost reporting process by automating the integration of accounting data into Excel
+- Prepared monthly financial reports and tracked rideshare numbers from MS Power BI
+
+GUIDE, ASTER ORGANISATION DE VULGARISATION SCIENTIFIQUE; QUÉBEC, CANADA
+JUNE - SEPTEMBER 2016
+- Led in-depth visits to the observatory in French as part of the Langues et Travail immersion program funded by the government of Canada
+
+#### Education
+University of Manitoba - B. Science in Computer Science (ongoing)
+University of Alberta - B. Commerce in Finance
+
+#### Skills
+###### Foreign Language
+- French and Mandarin (bilingual)
+- German (B2: professional working fluency)
+
+##### Software
+- Excel, VBA
+- Java, Python, C, SQLite
