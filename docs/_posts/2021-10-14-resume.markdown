@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "fictious resume"
+title:  "Fictious Resume"
 ---
 
 ## Benjamin Isaaz  
