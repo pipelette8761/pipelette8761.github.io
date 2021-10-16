@@ -3,9 +3,9 @@ layout: post
 title:  "fictious resume"
 ---
 
-## Benjamin Isaaz
-780 667 3098
-emailfictif@outlook.fr
+# Benjamin Isaaz  
+780 667 3098  
+emailfictif@outlook.fr  
 Fredericton, NB
 
 I am a multilingual software engineering student determined to use my knowledge in finance and technology in a way that benefits society and contributes to current initiatives which can improve our collective future.
