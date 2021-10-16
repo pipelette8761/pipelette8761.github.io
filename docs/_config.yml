@@ -21,7 +21,7 @@
 title: COMP3040 Assignment 2
 email: fictif@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  COMP3040 assignment 2
+  I built a website for my COMP3040 course's assignment 2. Any similarities to people, dead or alive, are coincidental.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
