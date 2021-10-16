@@ -3,7 +3,7 @@ layout: post
 title:  "fictious resume"
 ---
 
-# Benjamin Isaaz  
+## Benjamin Isaaz  
 780 667 3098  
 emailfictif@outlook.fr  
 Fredericton, NB
