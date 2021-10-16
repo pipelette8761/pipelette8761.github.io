@@ -34,10 +34,10 @@ University of Manitoba - B. Science in Computer Science (ongoing)
 University of Alberta - B. Commerce in Finance
 
 #### Skills
-###### Foreign Language
+*Foreign Language*
 - French and Mandarin (bilingual)
 - German (B2: professional working fluency)
 
-##### Software
+*Software*
 - Excel, VBA
 - Java, Python, C, SQLite
