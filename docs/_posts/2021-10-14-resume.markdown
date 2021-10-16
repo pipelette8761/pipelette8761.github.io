@@ -11,22 +11,22 @@ Fredericton, NB
 I am a multilingual software engineering student determined to use my knowledge in finance and technology in a way that benefits society and contributes to current initiatives which can improve our collective future.
 
 #### Experience
-*Financial Analyst, Bank of Canada; Ottawa, Canada*
-MAY 2021 - ONGOING
+*Financial Analyst, Bank of Canada; Ottawa, Canada*  
+*May 2021 - Ongoing*
 - Leveraged VBA code to create an Excel workbook which carried out analyses of delivery costs to support renegotiations of the NAFTA agreement
 - Built an Excel workbook which streamlined progress tracking of capital projects by consolidating and resolving scattered data into clear action items
 
-*Student Auditor, Bank of Canada; Ottawa, Canada*
-APRIL - DECEMBER 2019
+*Student Auditor, Bank of Canada; Ottawa, Canada*  
+*April - December 2019*
 - Supported audits focusing on aircraft financing and international project lending
 
-*Financial Control Intern, Tier Mobility AG; Berlin, Germany*
-MAY - SEPTEMBER 2018
+*Financial Control Intern, Tier Mobility AG; Berlin, Germany*  
+*May - September 2018*
 - Redesigned the monthly cost reporting process by automating the integration of accounting data into Excel
 - Prepared monthly financial reports and tracked rideshare numbers from MS Power BI
 
-*Guide, Aster Organisation de Vulgarisation Scientifique; Québec, Canada*
-JUNE - SEPTEMBER 2016
+*Guide, Aster Organisation de Vulgarisation Scientifique; Québec, Canada*  
+*June - September 2016*
 - Led in-depth visits to the observatory in French as part of the Langues et Travail immersion program funded by the government of Canada
 
 #### Education
