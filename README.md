@@ -49,7 +49,9 @@ https://docs.github.com/en/repositories/working-with-files/managing-files/adding
 
 1. Head over to your newly created GitHub Pages repo within your GitHub account. Its name has the format username.github.io.
 2. There will be a README.md file along with a folder named docs. Open this docs folder.
-3. Open the 
+3. Open the \_config.yml file
+4. I modified lines 21-24, but you can update any of the green highlighted items.
+5. Commit your changes.
 
 #### Final product for me
 ![ass2](https://user-images.githubusercontent.com/92553879/139300138-440d15df-b2ac-467d-af48-635ebd84e30b.gif)
