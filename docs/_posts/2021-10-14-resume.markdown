@@ -3,7 +3,7 @@ layout: post
 title:  "Fictious Resume"
 ---
 
-## Benjamin Isaaz  
+## Benjamin Zhou  
 780 699 7506  
 fictif@gmail.com  
 Fredericton, NB  
