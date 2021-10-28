@@ -65,3 +65,15 @@ https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/
 https://flight-manual.atom.io/getting-started/sections/atom-basics/
 - Getting started with GitHub  
 https://docs.github.com/en/get-started/onboarding/getting-started-with-your-github-account
+
+#### Authors and Acknowledgements :
+Credit to [Jekyll](https://jekyllrb.com/) for their templates.  
+Credit to [GitHub](https://github.com/) for hosting my site for free.  
+Credits to Syed Ali Ahsen Muhammad Jafry, Md Jannatul Nayem, Minh Nam Hai Nguyen, and Akashdeep Singh for their help peer editing.
+
+#### FAQs
+
+1. *"Why is Markdown better than a word processor ?"*  
+In terms of portability, Markdown is supported by a wide range of software whereas Microsoft (MS) Word is proprietary, so .docx files may only be opened in Word if you want full functionality. Markdown may have a limited set of functions, but they are available on every version so backward compatibility is not an issue. On the other hand, try opening a Word file created from MS Word 2019 with MS Word 95.
+2. *"Why is my resume not showing up ?"*  
+GitHub notes that it could take up to 20 mins for modifications to reflect on your site, but verify that your resume is a .md file.
