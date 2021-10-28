@@ -44,7 +44,12 @@ https://docs.github.com/en/pages/getting-started-with-github-pages/adding-a-them
 3. Open the \_posts folder.
 4. Depending on your preference, follow and complete each step for either *Adding a file to a repository on GitHub* or *Adding a file to a repository using the command line* at this link :  
 https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository.
-5. 
+
+#### Configuring your GitHub Pages site - loose ends
+
+1. Head over to your newly created GitHub Pages repo within your GitHub account. Its name has the format username.github.io.
+2. There will be a README.md file along with a folder named docs. Open this docs folder.
+3. Open the 
 
 #### Final product for me
 ![ass2](https://user-images.githubusercontent.com/92553879/139300138-440d15df-b2ac-467d-af48-635ebd84e30b.gif)
