@@ -39,6 +39,8 @@ https://docs.github.com/en/pages/getting-started-with-github-pages/adding-a-them
 
 #### Hosting a resume
 
+#### Final product for me
+![ass2](https://user-images.githubusercontent.com/92553879/139300138-440d15df-b2ac-467d-af48-635ebd84e30b.gif)
 
 ### More Resources :
 - Markdown basics  
