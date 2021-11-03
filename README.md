@@ -1,5 +1,5 @@
 pipelette8761.github.io
-# How to Host a Resume and README on GitHub Pages
+# How to Host a Resume on GitHub Pages
 
 ### Purpose :
 The following will describe in detail how I formatted and hosted my resume on GitHub Pages using Markdown, a Markdown editor known as Atom, and a static site generator called Jekyll. In addition, I will relate each step of the process to Andrew Etter’s book *Modern Technical Writing*, which discusses the general principles of current Technical Writing.  
